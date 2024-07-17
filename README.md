@@ -1,2 +1,2 @@
-# stock-market-bot
-Generate live alerts for the stocks that can undergo Bollinger Band Trap.
+Stock Market Bot
+Generate live alerts for the stocks that might undergo Bollinger Band Trap.
